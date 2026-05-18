@@ -26,8 +26,9 @@ To provide independent technical guidance and long-term decision support in tech
 
 - andersnielsen.se
 - Zero Eight Sales LLC
-- SupportPalawan.org
+- Zero Eight System
 - Anders Foundation for a Better Tomorrow
+- supportpalawan.org
 
 ## Vision
 
