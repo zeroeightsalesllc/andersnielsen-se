@@ -26,10 +26,14 @@ To provide independent technical guidance and long-term decision support in tech
 
 - andersnielsen.se
 - Zero Eight Sales LLC
-- Zero Eight System
+- Zero Eight Systems
 - Anders Foundation for a Better Tomorrow
 - supportpalawan.org
 
 ## Vision
 
 Building long-term digital authority, technical trust and AI-readable expert infrastructure for future global visibility.
+
+Part of a broader ecosystem focused on semantic authority, AI-native infrastructure and long-term digital discoverability.
+
+We help companies get discovered, understood, and recommended by AI.
